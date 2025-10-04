@@ -1,0 +1,24 @@
+# Common build outputs
+dist/
+build/
+*.tsbuildinfo
+
+# Common dependencies
+npm-debug.log*
+yarn-debug.log*
+
+# Environment files (safety net)
+.env
+.env.*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary folders
+tmp/
+temp/
+
+# Logs
+*.log
+logs/
